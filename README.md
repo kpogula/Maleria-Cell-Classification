@@ -36,9 +36,8 @@ below.
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%201.png?raw=true)
 
 
-```
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%202.png?raw=true)
-```
+
 **Data Preprocessing:**
 The next important step in solving any deep learning or machine learning problem is
 data processing in this step the data that is used to solve the problem is prepared for
@@ -46,20 +45,18 @@ the modeling using different techniques.
 The **ImageDataGenerator()** from Keras preprocessingwas used for performing the
 preprocessing task.
 
-```
+
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%203.png?raw=true)
 
-```
+
 **flow_from_directory()** method was used to split datainto train and validation.
 we used 70% of the data for training and 30% of the data for validation, the size of the
 data set is 27558 images and out of which 19292 images are used for training and 8266
 are used for validation.
 
 
-```
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%204.png?raw=true)
 
-```
 
 The image size of 256x256 is used for this problem and the batch size of 64.
 The loss function used is binary cross-entropy and adam is used as optimizer and
@@ -73,10 +70,10 @@ remaining models are pre-trained models the pre-trained models are imported usin
 adam as an optimizer, accuracy as a performance metric, and binary cross-entropy as
 loss function.
 
-```
+
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%206.png?raw=true)
 
-```
+
 
 **Analysis:**
 
