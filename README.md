@@ -73,53 +73,15 @@ loss function.
 
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%206.png?raw=true)
 
-
-
 **Analysis:**
 
-```
-Model Training Accuracy Validation Accuracy
-```
-```
-CNN 0.93 0.
-```
-```
-VGG16 0.91 0.
-```
-```
-Resnet 50 0.67 0.
-```
-```
-Resnet 101 0.67 0.
-```
-```
-Densenet 201 0.92 0.
-```
+
 **Epochs vs Accuracy**
 
-```
-(1) (2)
-```
-```
-(3) (4)
-```
+![alt text]([https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%206.png?raw=true](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph.png))
 
-```
-(5)
-```
-## (1)CNN
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph%202.png?raw=true)
 
-## (2) VGG
-
-```
-(3) Resnet 50
-```
-```
-(4) Resnet 101
-```
-```
-(5) Densenet 201
-```
 Out of 5 models CNN, VGG16, and Densenet201 achieved better accuracy than Resnet
 50 and Resnet 101 The accuracies of these models was fluctuating more when
 compared to other models and Resnet 50 performed worse when compared to
