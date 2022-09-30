@@ -32,10 +32,10 @@ EDA is performed to get the basic information about the data and the results sho
 below.
 
 
-```
+
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%201.png?raw=true)
 
-```
+
 ```
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%202.png?raw=true)
 ```
