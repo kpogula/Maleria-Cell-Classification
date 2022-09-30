@@ -70,16 +70,15 @@ remaining models are pre-trained models the pre-trained models are imported usin
 adam as an optimizer, accuracy as a performance metric, and binary cross-entropy as
 loss function.
 
-
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%206.png?raw=true)
 
 **Analysis:**
 
-![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis.png))
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis.png)
 
 **Epochs vs Accuracy**
 
-![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph.png))
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph.png)
 
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph%202.png?raw=true)
 
@@ -89,7 +88,7 @@ compared to other models and Resnet 50 performed worse when compared to
 remaining models and Resnet 50 model was overfitting which can be concluded by
 observing the training and validation accuracies of the model.
 
-![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis_models.png))
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis_models.png)
 
 **References:**
 
