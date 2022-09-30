@@ -75,6 +75,7 @@ loss function.
 
 **Analysis:**
 
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis.png))
 
 **Epochs vs Accuracy**
 
@@ -88,75 +89,7 @@ compared to other models and Resnet 50 performed worse when compared to
 remaining models and Resnet 50 model was overfitting which can be concluded by
 observing the training and validation accuracies of the model.
 
-```
-Fig 6: Accuracy of different models.
-```
-**Error Analysis:**
-
-```
-Model Training Loss Validation Loss
-```
-```
-CNN 0.19 0.
-```
-```
-VGG16 0.21 0.
-```
-```
-Resnet 50 0.62 0.
-```
-
-```
-Resnet 101 0.66 0.
-```
-```
-Densenet 201 0.56 0.
-```
-Epochs vs Loss
-
-```
-(1) (2)
-```
-```
-(3)
-```
-```
-(4)
-```
-
-```
-(5)
-```
-## (1)CNN
-
-## (2) VGG
-
-```
-(3) Resnet 50
-```
-```
-(4) Resnet 101
-```
-```
-(5) Densenet 201
-```
-At the end of the training CNN, VGG16 and Resnet 101 loss converged well and Resnet
-50, Densenet201 models losses fluated more when compared o remaining models and
-VGG16 had the smallest loss value for both training(0.21) and validation(0.28).
-
-**Discussion:**
-From the project i have learned how image classification task can be performed using
-the deep learning techniques and achieved highest accuracy of 0.92 using deep
-transfer learning technique called Dense net 201 and for the further analysis Ensemble
-techniques and attention techniques can be used for the improvement of the project.
-
-**Acknowledgements:**
-I would like to thank my professor Francis, Joseph T for inspiring me to do this project
-and give credits to National Library of Medicine for making large malaria cell data set
-available for the public which is used to solve this problem and i would like to thank all
-the deep learning reachers who designed some of the powerful models like VGG16,
-Resnet, Densenet etc which can be use to solve many deep learning problem with
-better results.
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/analysis_models.png))
 
 **References:**
 
