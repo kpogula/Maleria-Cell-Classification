@@ -78,7 +78,7 @@ loss function.
 
 **Epochs vs Accuracy**
 
-![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/Figure%206.png?raw=true](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph.png))
+![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph.png))
 
 ![alt text](https://github.com/kpogula/Maleria-Cell-Classification/blob/main/images/graph%202.png?raw=true)
 
